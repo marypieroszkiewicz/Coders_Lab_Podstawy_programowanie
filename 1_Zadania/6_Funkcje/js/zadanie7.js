@@ -30,4 +30,4 @@ rockPaperScissors('papier', 'nozyce');
 rockPaperScissors('nozyce', 'kamien');
 rockPaperScissors('papier', 'kamien');
 rockPaperScissors('papier', 'papier');
-rockPaperScissors('knife', 'kamien');
+rockPaperScissors('noz', 'kamien');
