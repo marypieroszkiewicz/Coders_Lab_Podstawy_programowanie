@@ -30,7 +30,7 @@ console.log(calculateTip(60, average));
 console.log(calculateTip(100, bad));
 console.log(calculateTip(100, 'bleh'));
 
-// Funkcja calculateTip z wykorzystaniem pętli switch
+// Funkcja calculateTip z wykorzystaniem instrukcji warunkowej switch
 
 function calculateTip(amount, raiting) {
 

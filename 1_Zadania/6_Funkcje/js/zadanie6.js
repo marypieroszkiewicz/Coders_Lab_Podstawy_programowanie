@@ -22,7 +22,7 @@ console.log(rentCost(14)); //2000
 console.log(rentCost(16)); //2300
 
 
-// Funkcja rentCost z wykorzystaniem pętli switch
+// Funkcja rentCost z wykorzystaniem instrukcji warunkowej switch
 
 // function rentCost(days) {
 
