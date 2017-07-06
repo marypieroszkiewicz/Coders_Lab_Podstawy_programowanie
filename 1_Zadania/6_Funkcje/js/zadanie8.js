@@ -49,7 +49,7 @@ function calculateTip(amount, raiting) {
 	 		tip = amount * 0.15;
 	 		break;
 
-	 	case('Zla obsluga') :
+	 	case ('Zla obsluga') :
 	 		tip = amount * 0;
 	 		break;
 

@@ -1,3 +1,5 @@
+/* ------- Zadania do samodzielnego wykonania - Funkcje ------- */
+
 function rockPaperScissors(player1, player2) {
 
 	var paper = 'papier';

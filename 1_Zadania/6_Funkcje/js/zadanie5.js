@@ -1,3 +1,5 @@
+/* ------- Zadania do samodzielnego wykonania - Funkcje ------- */
+
 var example = function() {
 
 	// Pętla for
