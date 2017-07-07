@@ -14,7 +14,7 @@ function getFibonacciNumbers(n) {
     	}
 
     return sequence;
-    
+
     }
 }
 
